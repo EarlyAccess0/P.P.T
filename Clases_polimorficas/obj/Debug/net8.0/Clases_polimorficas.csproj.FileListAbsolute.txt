@@ -1,0 +1,14 @@
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\bin\Debug\net8.0\Clases_polimorficas.exe
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\bin\Debug\net8.0\Clases_polimorficas.deps.json
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\bin\Debug\net8.0\Clases_polimorficas.runtimeconfig.json
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\bin\Debug\net8.0\Clases_polimorficas.dll
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\bin\Debug\net8.0\Clases_polimorficas.pdb
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\Clases_polimorficas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\Clases_polimorficas.AssemblyInfoInputs.cache
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\Clases_polimorficas.AssemblyInfo.cs
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\Clases_polimorficas.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\Clases_polimorficas.dll
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\refint\Clases_polimorficas.dll
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\Clases_polimorficas.pdb
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\Clases_polimorficas.genruntimeconfig.cache
+C:\Users\angel\OneDrive\Escritorio\App_Class\Clases_polimorficas\obj\Debug\net8.0\ref\Clases_polimorficas.dll
